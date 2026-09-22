@@ -55,7 +55,7 @@ st.error("""
 This tool is an **unofficial, abbreviated educational and clinical reference aid only**.  
 It is **NOT** an official FAA publication, **NOT** a substitute for the current Guide for Aviation Medical Examiners, **NOT** a substitute for the official CACI worksheets, disposition tables, or AASI protocols, and **NOT** a substitute for the AME’s independent professional medical judgment.
 
-- The AME (not this tool) is solely responsible for every certification decision.
+- The AME (not this tool) is solely responsible for every certification decision, and it may not be up to date.
 - Criteria, worksheets, and policies change. Always verify the latest versions directly on the official FAA AME Guide website (faa.gov/ame_guide) before issuing or deferring.
 - Use of this tool does not create any doctor-patient relationship, does not constitute medical or legal advice, and does not shift any liability from the AME to the tool’s creators or distributors.
 - By using this tool you acknowledge that you remain fully responsible for compliance with 14 CFR Part 67, FAA orders, and all applicable standards of care.
